@@ -1,0 +1,2 @@
+# CoCSoundBot
+CoC Discord bot
