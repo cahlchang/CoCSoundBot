@@ -7,3 +7,15 @@ multidict*
 websockets*
 yarl*
 local_config.py
+*.mp3
+six*
+.DS_Store
+PyNaCl-1.3.0.dist-info
+_cffi_backend.cpython-*
+attr*
+bin
+cffi*
+chardet*
+idna*
+nacl*
+pycparser*
